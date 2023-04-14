@@ -9,7 +9,7 @@ Assembly game written for CSCB63 assignment. Uses [Mars MIPS Simulator](http://c
 
 
 <p align="center">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4cxd8GXdnaY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<a href="https://www.youtube.com/embed/4cxd8GXdnaY"> Watch the Demonstration Video here </a>
 </p>
 
 **Bitmap Display Configurations**
