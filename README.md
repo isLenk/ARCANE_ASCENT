@@ -3,7 +3,14 @@ Developed by **Yron Lance Talban**  (April 2023)
 <br>
 
 # ARCANE ASCENT
+
 A game about a lonely mage that decides to explore a cave. However, the mage forgot to learn any flight spells. It is up to you to help the mage exit the cave using quick movements to avoid getting impaled from spikes or fall to their demise.
+
+<p align="center"><img src="https://i.gyazo.com/78214869bbe35d2e7db6ac6a3bc66165.png"/></p>
+<p align="middle">
+  <img src="https://gyazo.com/b43d6cd9e221cd6a711aa137fb19020c.png" width="300" />
+  <img src="https://i.gyazo.com/670ba10dbd7226123051fd569fb236ce.png" width="300" />
+</p>
 
 Assembly game written for CSCB63 assignment. Uses [Mars MIPS Simulator](http://courses.missouristate.edu/kenvollmar/mars/)
 
