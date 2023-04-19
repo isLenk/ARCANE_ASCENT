@@ -93,3 +93,5 @@ The second array will hold the platform tile positions.
 On start of the level, draw the first array onto the game screen and also place the player and other objects onto the screen. To clear where an object (such as the player) last was:
 - For each positions that the character takes up on the screen, copy the pixels of the first array located at that same position and draw it onto its position on the game screen.
 - To check for collisions, simply find the required collision points on the player and look at that position in your second array. If the value stored in the second array is not `0x0`, then we are on a platform.
+
+Edit: Rather than storing the entire map in a massive array, we can reserve enough space to store the pixels overridden by the character. This reduces the array size from a large frame buffer amount, to only the number of pixels it takes to draw the player. Now, when we have to clear the area the player was last in, just copy the pixels in the small array the same way you loaded them in.
