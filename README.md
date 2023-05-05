@@ -12,7 +12,7 @@ A game about a lonely mage that decides to explore a cave. However, the mage for
   <img src="https://i.gyazo.com/670ba10dbd7226123051fd569fb236ce.png" width="300" />
 </p>
 
-Assembly game written for CSCB63 assignment. Uses [Mars MIPS Simulator](http://courses.missouristate.edu/kenvollmar/mars/)
+Assembly game written for CSCB58 assignment. Uses [Mars MIPS Simulator](http://courses.missouristate.edu/kenvollmar/mars/)
 
 
 <p align="center">
